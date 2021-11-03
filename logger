@@ -1,0 +1,6 @@
+2021-11-04 00:00:16,853 root ERROR: This is error
+2021-11-04 00:00:16,853 root CRITICAL: This is fatal
+2021-11-04 00:00:16,853 foo DEBUG: Hello world
+2021-11-04 00:00:16,853 foo INFO: This is warning
+2021-11-04 00:00:16,853 foo ERROR: This is error
+2021-11-04 00:00:16,853 foo CRITICAL: This is fatal
